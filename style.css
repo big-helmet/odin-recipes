@@ -1,3 +1,9 @@
+* {
+    background-color: #ecf0f1;
+    border: 1px solid black;
+    margin: auto;
+}
+
 .title {
     font-family: 'Calistoga', cursive;
     text-align: center;
@@ -5,5 +11,8 @@
 
 .menu {
     font-family: 'Calistoga', cursive;
-
 }
+
+/*  1. padding increases the space between the edge of a box and the content inside of it.
+    2. margin increases the space between a box and any others that sit next to it.
+    3. border adds space (even if it’s only a pixel or two) between the margin and the padding. */
